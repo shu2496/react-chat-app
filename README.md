@@ -1,10 +1,10 @@
 #Chat application using react.js with chat engine
 
 ## Login page
-![](img/Chat Application and 5 more pages - Personal - Microsoft​ Edge 04-04-2022 15_11_39.png)
+![](img/LoginPage.png)
 
 ## chat interface
-![](img/Chat Application and 6 more pages - Personal - Microsoft​ Edge 04-04-2022 15_26_19.png)
+![](img/chatInterface.png)
 
 # Getting Started with Create React App
 
